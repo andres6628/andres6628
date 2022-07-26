@@ -16,6 +16,6 @@ PERFIL PROFESIONAL
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :Estudiante de software UTA: &nbsp;Acerca de mi:
+### Estudiante de software UTA: &nbsp;Acerca de mi:
 
-Actualmente cursando una carrera de software. Gran pasión por el desarrollo y la tecnología <img src="https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" width="30"> Ecuatoriano
+Actualmente cursando una carrera de software, tengo 24 años y gran pasión por el desarrollo y la tecnología <img src="https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" width="30"> Ecuatoriano
