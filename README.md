@@ -3,7 +3,7 @@ PERFIL PROFESIONAL
 # Hola Mundo, mi nombre es Andrés Villacrés
 ### Soy estudiante de la Universidad Técnica de Ambato y estoy cursando la carrera de Ingeniería en Software.
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://hiring-assets.careerbuilder.com/media/attachments/careerbuilder-original-2442.jpg" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -16,6 +16,6 @@ PERFIL PROFESIONAL
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;Acerca de mi:
+### :Estudiante de software UTA: &nbsp;Acerca de mi:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Actualmente cursando una carrera de software. Gran pasión por el desarrollo y la tecnología <img src="https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" width="30"> Ecuatoriano
