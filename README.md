@@ -7,9 +7,9 @@
 ✍️ &nbsp;Estudio en la Universidad Técnica de Ambato - Ecuador\
 ✉️ &nbsp;Mi correo para contactarme: andreslkf14@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Encu[entrame: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/andres-villacres-a97635245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andres-villacres-a97635245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andres-villacres-a97635245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andres-villacres-a97635245" height="30" width="40" /></a>
 <a href="https://fb.com/andres villacres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andres villacres" height="30" width="40" /></a>
 </p>
 ### 🛠 &nbsp; <h3 align="left"> Languajes y herramientas utilizadas: </h3>
